@@ -1,0 +1,14 @@
+{
+  "name": "com.kamgam.foobar.readonlytest",
+  "displayName": "FoobarReadOnlyTest",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "unityRelease": "18f1",
+  "description": "Foobar Readonly Scene Test package outside of Packages to make it immutable (readonly)",
+  "keywords": [
+    "foobar",
+    "unity"
+  ],
+  "dependencies": {
+  }
+}
